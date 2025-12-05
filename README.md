@@ -1,6 +1,6 @@
 # PS5 Loader GUI
 
-PS5 Loader is a small Windows GUI to send payloads to a jailbroken PlayStation 5 and view the kernel log over TCP.[web:255][web:256]
+PS5 Loader is a small Windows GUI to send payloads to a jailbroken PlayStation 5 and view the kernel log over TCP.
 
 ## Features
 
