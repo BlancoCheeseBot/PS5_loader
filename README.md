@@ -4,9 +4,9 @@ PS5 Loader is a small Windows GUI to send payloads to a jailbroken PlayStation 5
 
 ## Features
 
-- Send JS/ELF payloads to a PS5 over TCP (default payload port 50000, configurable in the UI).[web:252]
+- Send JS/ELF payloads to a PS5 over TCP (default payload port 50000, configurable in the UI).
 - Quick buttons for common payloads (e.g. helloworld, lapse, elf_loader, klog_server).
-- Connect to `klogsrv` on port 3232 and display the live kernel log in a separate log window.[web:256][web:259]
+- Connect to `klogsrv` on port 3232 and display the live kernel log in a separate log window.
 - Status indicator that checks if the PS5 is reachable on the configured payload port.
 - Multi‑language UI (German/English).
 - Built‑in update check that links to this GitHub repository.
@@ -14,8 +14,7 @@ PS5 Loader is a small Windows GUI to send payloads to a jailbroken PlayStation 5
 ## Requirements
 
 - Windows 10 or 11 (64‑bit).
-- A jailbroken PS5 with a payload listener running in your network (Remote JS / ELF loader) and optional `klogsrv` for kernel logs.[web:255][web:259]
-
+- A jailbroken PS5 with a payload listener running in your network (Remote JS / ELF loader) and optional `klogsrv` for kernel logs.
 ## Usage
 
 1. Start `PS5_Loader.exe`.
